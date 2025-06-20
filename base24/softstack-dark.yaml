@@ -17,16 +17,16 @@ palette:
   base09: "#e78a4e" # orange
   base0A: "#d8a657" # yellow
   base0B: "#a9b665" # green
-  base0C: "#89b482" # aqua
+  base0C: "#89b482" # cyan
   base0D: "#7daea3" # blue
   base0E: "#d3869b" # purple
-  base0F: "#bd6f3e" # dim-orange
+  base0F: "#bd6f3e" # "pink"
   # bright
-  base10: "#f4afab" # bright-red
-  base11: "#f0b792" # bright-orange
-  base12: "#e6c794" # bright-yellow
-  base13: "#c4cd95" # bright-green
-  base14: "#b7d1b2" # bright-aqua
-  base15: "#abcbc4" # bright-blue
-  base16: "#eac5cf" # bright-purple
-  base17: "#cf926b" # orange
+  base10: "#212121" # darker
+  base11: "#141617" # darkest
+  base12: "#f4afab" # bright-red
+  base13: "#cf926b" # bright-orange
+  base14: "#e6c794" # bright-yellow
+  base15: "#c4cd95" # bright-green
+  base16: "#b7d1b2" # bright-cyan
+  base17: "#abcbc4" # bright-blue
