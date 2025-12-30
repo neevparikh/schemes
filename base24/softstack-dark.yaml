@@ -24,9 +24,9 @@ palette:
   # bright
   base10: "#181717" # darker
   base11: "#0f0e0e" # darkest
-  base12: "#f4afab" # bright-red
-  base13: "#cf926b" # bright-orange
-  base14: "#e6c794" # bright-yellow
-  base15: "#c4cd95" # bright-green
-  base16: "#b7d1b2" # bright-cyan
-  base17: "#abcbc4" # bright-blue
+  base12: "#cc241d" # bright-red
+  base13: "#d65d0e" # bright-orange
+  base14: "#d79921" # bright-yellow
+  base15: "#98971a" # bright-green
+  base16: "#689d6a" # bright-cyan
+  base17: "#458588" # bright-blue
