@@ -4,10 +4,10 @@ author: "Neev Parikh (https://github.com/neevparikh), Tinted Theming (https://gi
 variant: "dark"
 palette:
   # base
-  base00: "#292828" # bg
-  base01: "#32302f" # bg2
-  base02: "#504945" # bg6
-  base03: "#665c54" # bg8
+  base00: "#1f1e1e" # bg
+  base01: "#292726" # bg2
+  base02: "#453f3b" # bg6
+  base03: "#5a524c" # bg8
   base04: "#bdae93" # p-fg3
   base05: "#ddc7a1" # fg
   base06: "#ebdbb2" # p-fg1
@@ -22,8 +22,8 @@ palette:
   base0E: "#d3869b" # purple
   base0F: "#bd6f3e" # "pink"
   # bright
-  base10: "#212121" # darker
-  base11: "#141617" # darkest
+  base10: "#181717" # darker
+  base11: "#0f0e0e" # darkest
   base12: "#f4afab" # bright-red
   base13: "#cf926b" # bright-orange
   base14: "#e6c794" # bright-yellow
